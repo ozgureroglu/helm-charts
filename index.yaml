@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/ozgureroglu/helm-charts/releases/download/mychart-0.1.0/mychart-0.1.0.tgz
     version: 0.1.0
+  oz-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-05T15:46:51.599325057Z"
+    description: A Helm chart for Kubernetes
+    digest: 785a0228cd92d4c3956c9cca8e4a31262602ce2fa75c4ab44ff1e9da74703e17
+    name: oz-helm-chart
+    type: application
+    urls:
+    - https://github.com/ozgureroglu/helm-charts/releases/download/oz-helm-chart-0.1.0/oz-helm-chart-0.1.0.tgz
+    version: 0.1.0
 generated: "2022-01-04T09:38:45.645942531Z"
