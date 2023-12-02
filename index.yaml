@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   demo-python-app:
   - apiVersion: v2
-    created: "2023-11-29T00:48:16.672842+03:00"
+    created: "2023-12-02T09:17:25.084794+03:00"
     digest: ff3620e9361a40fee8d15617eb0b8b5c80108e2751fb25f228bd798fd74a305f
     name: demo-python-app
     urls:
-    - https://ozgureroglu.github.io/helm-charts/demo-python-app-1.0.0.tgz
+    - https://ozgureroglu.github.io/helm-charts/charts/demo-python-app-1.0.0.tgz
     version: 1.0.0
-generated: "2023-11-29T00:48:16.672262+03:00"
+generated: "2023-12-02T09:17:25.083982+03:00"

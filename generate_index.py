@@ -40,7 +40,7 @@ def generate_html_from_index(index_file, output_html):
     with open(output_html, 'w') as file:
         file.write(html_content)
 
-index_file_path = 'docs/index.yaml' # Path to your index.yaml file
+index_file_path = 'index.yaml' # Path to your index.yaml file
 output_html_path = 'index.html' # Output HTML file path
 
 generate_html_from_index(index_file_path, output_html_path)
